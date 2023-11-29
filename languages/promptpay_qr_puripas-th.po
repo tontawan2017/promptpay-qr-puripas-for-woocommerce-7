@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Promptpay QR Puripas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-30 07:40+0000\n"
+"PO-Revision-Date: 2021-08-30 07:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: ไทย\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: promptpay_qr_puripas"
+
+#. Author of the plugin
+msgid "Amnat Rompruek"
+msgstr ""
+
+#: promptpay-qr-puripas.php:197
+msgid "Awaiting promptpay payment"
+msgstr ""
+
+#: promptpay-qr-puripas.php:107
+msgid "Description in checkout form"
+msgstr ""
+
+#: promptpay-qr-puripas.php:148
+msgid "Enable including price in QR Code"
+msgstr ""
+
+#: promptpay-qr-puripas.php:95
+msgid "Enable Promptpay Checkout"
+msgstr ""
+
+#: promptpay-qr-puripas.php:93
+msgid "Enable/Disable"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://puripas.com"
+msgstr ""
+
+#: promptpay-qr-puripas.php:146
+msgid "Include Price in QR Code"
+msgstr ""
+
+#: promptpay-qr-puripas.php:109
+msgid "Pay with Promptpay"
+msgstr ""
+
+#: promptpay-qr-puripas.php:103
+msgid "Promptpay"
+msgstr ""
+
+#: promptpay-qr-puripas.php:132 promptpay-qr-puripas.php:135
+msgid "Promptpay ID"
+msgstr ""
+
+#: promptpay-qr-puripas.php:164
+msgid "Promptpay Info."
+msgstr ""
+
+#: promptpay-qr-puripas.php:140 promptpay-qr-puripas.php:143
+msgid "Promptpay Name"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+#: promptpay-qr-puripas.php:35
+msgid "Promptpay QR Puripas"
+msgstr ""
+
+#: promptpay-qr-puripas.php:119
+msgid "Promptpay Type"
+msgstr ""
+
+#: promptpay-qr-puripas.php:115
+msgid ""
+"Thank you for your order, please open your mobile banking application to "
+"scan the QR Code or save this QR Code to use in your mobile banking "
+"application."
+msgstr ""
+
+#: promptpay-qr-puripas.php:113
+msgid "Thank you message in receipt page/email"
+msgstr ""
+
+#: promptpay-qr-puripas.php:110
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: promptpay-qr-puripas.php:116
+msgid "This controls the message which the user sees receipt page/email."
+msgstr ""
+
+#: promptpay-qr-puripas.php:102
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: promptpay-qr-puripas.php:99
+msgid "Title in checkout form"
+msgstr ""
+
+#: promptpay-qr-puripas.php:122
+msgid "Type of Promptpay that is used to receive payment"
+msgstr ""
